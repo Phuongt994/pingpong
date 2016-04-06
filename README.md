@@ -1,6 +1,5 @@
 # pingpong
 
 A pingpong-wannabe Python game
-
-Created March 2015
+Created date: 16/03/2015
 
